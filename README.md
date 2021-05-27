@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: acdavis@ualberta.ca
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# check out my website, twitter, and google scholar pages!
-  - 🕸️[my personal website](http://www.alexandracddavis.com/)
-  - 🐦 [my twitter](https://twitter.com/ACD_Davis11)
-  - 📰[my google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
+### check out my website, twitter, and google scholar pages!
+  - 🕸️ [ personal website](http://www.alexandracddavis.com/)
+  - 🐦 [twitter](https://twitter.com/ACD_Davis11)
+  - 📰 [goggle scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
 <!--
 anything within these will not show up
 -->
