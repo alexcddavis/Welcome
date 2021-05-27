@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 🕸️[my personal website](http://www.alexandracddavis.com/)
-- 🐦 [my twitter](https://twitter.com/ACD_Davis11)
-- 📰[my google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
+- - 🕸️[my personal website](http://www.alexandracddavis.com/)
+- - 🐦 [my twitter](https://twitter.com/ACD_Davis11)
+- - 📰[my google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
 <!--
 anything within these will not show up
 -->
