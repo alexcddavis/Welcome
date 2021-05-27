@@ -1,4 +1,4 @@
-### Hi there
+### GitHub page for Dr. Alex(andra) Davis
 
 A little bit about me
 #
