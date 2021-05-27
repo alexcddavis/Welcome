@@ -1,8 +1,5 @@
 ### Hi there
 
-
-**davialex/davialex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A little bit about me
 #
 - 🔭 I’m currently working on ...
@@ -19,4 +16,6 @@ A little bit about me
   - 📰 [google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
 <!--
 anything within these will not show up
+**davialex/davialex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
