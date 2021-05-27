@@ -1,6 +1,6 @@
 ### Hi there
 
-<!--
+
 **davialex/davialex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: acdavis@ualberta.ca
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [my personal website](http://www.alexandracddavis.com/)
 [my twitter] (https://twitter.com/ACD_Davis11)
 [my google scholar] (https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
+<!--
+anything within these will not show up
+-->
