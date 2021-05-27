@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### check out my website, twitter, and google scholar pages!
   - 🕸️ [ personal website](http://www.alexandracddavis.com/)
   - 🐦 [twitter](https://twitter.com/ACD_Davis11)
-  - 📰 [goggle scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
+  - 📰 [google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
 <!--
 anything within these will not show up
 -->
