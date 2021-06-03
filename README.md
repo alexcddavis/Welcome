@@ -10,10 +10,8 @@ A little bit about me
 - 📫 How to reach me: acdavis@ualberta.ca
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### check out my website, twitter, and google scholar pages!
-  - 🕸️ [ personal website](http://www.alexandracddavis.com/)
-  - 🐦 [twitter](https://twitter.com/ACD_Davis11)
-  - 📰 [google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e)
+### check out my [personal website](http://www.alexandracddavis.com/), [twitter](https://twitter.com/ACD_Davis11), and [google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e) pages!
+  
 <!--
 anything within these will not show up
 **davialex/davialex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
