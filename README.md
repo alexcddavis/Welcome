@@ -4,7 +4,7 @@ A little bit about me
 #
 - 🔭 I’m currently working on efficient solutions for invasive species management
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on anything related to Green Crab (Carcinus maenas)
+- 👯 I’m looking to collaborate on anything related to Green Crab (*Carcinus maenas*)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my work with [BWEEMS](https://www.bweems.org/)
 - 📫 How to reach me: acdavis@ualberta.ca
