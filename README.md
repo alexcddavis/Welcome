@@ -7,7 +7,7 @@ A little bit about me
 - 👯 I’m looking to collaborate on anything related to Green Crab (*Carcinus maenas*)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my work with [BWEEMS](https://www.bweems.org/)
-- 📫 How to reach me: acdavis@ualberta.ca
+- 📫 How to reach me: adavis1152@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love Cher!
 ### check out my [personal website](http://www.alexandracddavis.com/), [twitter](https://twitter.com/ACD_Davis11), and [google scholar](https://scholar.google.com/citations?user=sRdo6x0AAAAJ&hl=e) pages!
